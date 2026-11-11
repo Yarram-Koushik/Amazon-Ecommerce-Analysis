@@ -14,12 +14,12 @@ The repository contains advanced SQL scripts, interactive Power BI analytical da
 
 ## 📂 Repository Contents
 
-| File | Description |
+| Folder / File | Description |
 | :--- | :--- |
-| [`KoushikYarram_Amazon_Ecommerce_Queries.sql`](./KoushikYarram_Amazon_Ecommerce_Queries.sql) | Production-ready MySQL 8.0 analytical queries using CTEs, window functions (`PERCENT_RANK`, `DENSE_RANK`), and aggregation strategies. |
-| [`KoushikYarram_Amazon_Ecommerce_Analysis.pbix`](./KoushikYarram_Amazon_Ecommerce_Analysis.pbix) | Interactive Power BI dashboard covering sales KPIs, customer segmentation, category performance, and fulfillment trends. |
-| [`KoushikYarram_Amazon_Ecommerce_Presentation.pptx`](./KoushikYarram_Amazon_Ecommerce_Presentation.pptx) | Executive-ready presentation summarizing key findings, strategic recommendations, and data-driven insights. |
-| [`KoushikYarram_Amazon_Ecommerce_Answers.docx`](./KoushikYarram_Amazon_Ecommerce_Answers.docx) | Comprehensive analytical report detailing answers and business implications for each objective question. |
+| [`SQL/KoushikYarram_Amazon_Ecommerce_Queries.sql`](./SQL/KoushikYarram_Amazon_Ecommerce_Queries.sql) | Production-ready MySQL 8.0 analytical queries using CTEs, window functions (`PERCENT_RANK`, `DENSE_RANK`), and aggregation strategies. |
+| [`Dashboard/KoushikYarram_Amazon_Ecommerce_Analysis.pbix`](./Dashboard/KoushikYarram_Amazon_Ecommerce_Analysis.pbix) | Interactive Power BI dashboard covering sales KPIs, customer segmentation, category performance, and fulfillment trends. |
+| [`Presentation/KoushikYarram_Amazon_Ecommerce_Presentation.pptx`](./Presentation/KoushikYarram_Amazon_Ecommerce_Presentation.pptx) | Executive-ready presentation summarizing key findings, strategic recommendations, and data-driven insights. |
+| [`Documentation/KoushikYarram_Amazon_Ecommerce_Answers.docx`](./Documentation/KoushikYarram_Amazon_Ecommerce_Answers.docx) | Comprehensive analytical report detailing answers and business implications for each objective question. |
 
 ---
 
@@ -36,10 +36,10 @@ The repository contains advanced SQL scripts, interactive Power BI analytical da
 ### 1. Database Setup & SQL Execution
 1. Clone or download this repository.
 2. Ensure you have **MySQL 8.0+** installed.
-3. Open `KoushikYarram_Amazon_Ecommerce_Queries.sql` in MySQL Workbench or your preferred SQL IDE.
+3. Open [`SQL/KoushikYarram_Amazon_Ecommerce_Queries.sql`](./SQL/KoushikYarram_Amazon_Ecommerce_Queries.sql) in MySQL Workbench or your preferred SQL IDE.
 4. Execute against your `amazon_ecommerce` database schema.
 
 ### 2. Exploring Power BI Dashboard
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-2. Open `KoushikYarram_Amazon_Ecommerce_Analysis.pbix` to interact with slicers, visual drill-downs, and cross-filtered KPIs.
+2. Open [`Dashboard/KoushikYarram_Amazon_Ecommerce_Analysis.pbix`](./Dashboard/KoushikYarram_Amazon_Ecommerce_Analysis.pbix) to interact with slicers, visual drill-downs, and cross-filtered KPIs.
 
