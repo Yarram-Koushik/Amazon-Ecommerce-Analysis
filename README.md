@@ -42,3 +42,4 @@ The repository contains advanced SQL scripts, interactive Power BI analytical da
 ### 2. Exploring Power BI Dashboard
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 2. Open `KoushikYarram_Amazon_Ecommerce_Analysis.pbix` to interact with slicers, visual drill-downs, and cross-filtered KPIs.
+
